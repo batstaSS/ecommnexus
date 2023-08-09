@@ -23,7 +23,8 @@ What i found hard during coding:
     - styling the grid.
     - creating a sort, load more and cart functions -> thats why there is none here, i had a lot of bugs and couldnt figure out a solution to them. 
     - i couldnt make the footer stay at the bottom despite the shown products. 
-    
+
+I started the project 4 days ago, and uploaded it to github all at once now. 
     
 
 
