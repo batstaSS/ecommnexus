@@ -1,0 +1,29 @@
+I was assigned to make a PLP's page. 
+
+I tried to keep things simple in creating the files to make the project a little more understandable and readable.
+For the data I created a separete file called "data.js" where I created an array of products.  
+
+
+1. The navigation bar is fully HTML and CSS designed and every container is inside a div.
+I also decided to add a search bar, despite it not being in the requirements to complete the project. Hope that's okay. The search bar is the only dynamic component in the navbar.
+
+2. Footer - again, HTML and CSS, and couple of links to an external website.
+
+3. Sidebar
+    - created different components then combined them together in the Sidebar.js file
+    - to make everything in the sidebar dynamic I created a file called Input.js where I used props and assigned them to html tags.
+    - i used these props in all the files in Sidebar folder. 
+    - for the files I used HTML and CSS
+4. Card.js - thats the file where i created the grid - HTML and CSS
+5. App.js - thats where I implemented almost all of my React logic - created a couple of useState and const variables that implement those useStates, 
+the filter keyword to loop through the array and to exclude/include products based on a condition and the map keyword to run a function on the array and return a new result. 
+
+
+What i found hard during coding:
+    - styling the grid.
+    - creating a sort, load more and cart functions -> thats why there is none here, i had a lot of bugs and couldnt figure out a solution to them. 
+    - i couldnt make the footer stay at the bottom despite the shown products. 
+    
+    
+
+
